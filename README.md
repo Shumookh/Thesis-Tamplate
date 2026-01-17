@@ -1,3 +1,8 @@
 # Thesis Template
-The Zip file contains the template for KKU 2024/2025. You can download the Zip file, Then run the main.tex file in a Latex environment such as Tex-Studio, Overleaf, or Tex-shop with using xelatex compiler. For more information about Latex, you can join this Telegram group: {https://t.me/Latex_Shumookh}. 
-Best wishes, and I hope you find this project beneficial 🤍.
+The zip file contains the thesis template for KKU 2024/2025. You can download the zip file and then run the main.tex file in a LaTeX environment such as TeXstudio, Overleaf, or TeXShop using the XeLaTeX compiler.
+
+You can also use this template for general theses by changing the logo and following your institution’s guidelines.
+
+For more information about LaTeX, you can join this Telegram group: {https://t.me/Latex_Shumookh}.
+
+Best wishes, and I hope you find this project helpful 🤍.
